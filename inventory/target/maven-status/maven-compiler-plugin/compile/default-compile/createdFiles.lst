@@ -1,0 +1,5 @@
+com/micros/inventory/InventoryApplication.class
+com/micros/inventory/model/Inventory.class
+com/micros/inventory/repository/InventoryRepository.class
+com/micros/inventory/service/InventoryService.class
+com/micros/inventory/controller/InventoryController.class

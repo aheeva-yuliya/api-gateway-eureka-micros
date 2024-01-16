@@ -1,0 +1,7 @@
+com/micros/product/repository/ProductRepository.class
+com/micros/product/service/ProductService.class
+com/micros/product/ProductServiceApplication.class
+com/micros/product/config/SecurityConfig.class
+com/micros/product/model/Product$ProductBuilder.class
+com/micros/product/controller/ProductController.class
+com/micros/product/model/Product.class

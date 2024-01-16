@@ -1,0 +1,5 @@
+/home/user/IdeaProjects/micros/inventory/src/main/java/com/micros/inventory/InventoryApplication.java
+/home/user/IdeaProjects/micros/inventory/src/main/java/com/micros/inventory/model/Inventory.java
+/home/user/IdeaProjects/micros/inventory/src/main/java/com/micros/inventory/repository/InventoryRepository.java
+/home/user/IdeaProjects/micros/inventory/src/main/java/com/micros/inventory/service/InventoryService.java
+/home/user/IdeaProjects/micros/inventory/src/main/java/com/micros/inventory/controller/InventoryController.java
